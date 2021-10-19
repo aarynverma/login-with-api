@@ -1,4 +1,6 @@
 Run Both the instruction parallelly:-
+     Username: aryanverma
+     Password: aryan123
     
     For the Frontend:
         1. Run `npm i` command to install dependencies.
